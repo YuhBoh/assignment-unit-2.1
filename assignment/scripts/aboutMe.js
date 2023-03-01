@@ -24,7 +24,7 @@ console.log( `My name is ${fullName}, and I think ${luckyNumber} is a winner!`);
 let adventurous = true;
 
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
-let food = `Indian Curry`
+let food = `Indian Curry`;
 
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
 let pets = 0;
@@ -33,7 +33,7 @@ let pets = 0;
 let friendsPets = 1;
 
 // 11 - Add two pets to your `pets` variable
-pets += 2
+pets += 2;
 
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
 const allowedPets = 0;
@@ -75,7 +75,7 @@ else if(pets = allowedPets)
 }
 else if(pets > allowedPets)
 {
-  console.log("Oh no, I have too many pets!")
+  console.log("Oh no, I have too many pets!");
 }
 // STRETCH GOALS:
 
@@ -86,7 +86,7 @@ else if(pets > allowedPets)
 // console.log `mostPets` after the conditional has run.
 let mostPets;
 
-if(friendsPets > pets)
+if(friendsPets > pets);
 {
 mostPets = friendsPets;
 console.log(`mostPets is assigned ${mostPets}`);
@@ -125,10 +125,9 @@ switch (luckyNumber)
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!'
 let todaysPlan;
 
-todaysPlan = adventure = true? "Adventures are great!" : "How about we stay home?"
+todaysPlan = adventure = true? "Adventures are great!" : "How about we stay home?";
 
-if(adventurous = true)
+if(adventurous = true);
 {
  console.log(true ? "Adventures are great!" : "How about we stay home?"); 
 }
-
